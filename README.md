@@ -15,4 +15,4 @@ Projedeki katmanlar şunlar: <br>
 **.** Microsoft SQL Server <br>
 **.** Entity Framework Code First <br>
 **.** Repository Design Pattern <br>
-
+**.** MSSQL <br>
